@@ -70,5 +70,4 @@ func main() {
 		}
 		println(totalTrans, sum)
 	}
-
 }
